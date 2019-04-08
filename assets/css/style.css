@@ -139,6 +139,4 @@ input.form-control, textarea.form-control, .card-title, .card-text {
     margin-left: 3px;
 }
 
-#project-card:hover {
-    cursor: pointer;
-}
+
