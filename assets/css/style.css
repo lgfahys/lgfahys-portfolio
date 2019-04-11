@@ -140,3 +140,12 @@ input.form-control, textarea.form-control, .card-title, .card-text {
 }
 
 
+@media screen and (max-width: 992px) {
+    #contact {
+        margin-top: 200px;
+    }
+}
+
+
+
+
